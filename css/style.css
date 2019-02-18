@@ -33,5 +33,13 @@ h1 { font-family: cursive;
                 font-stretch: semi-expanded;
                }
 
+.wrapped {background: grey;
+    width: 30%;
+    margin: 1%;
+float:left;
+display: inline;}
 
+ #wrapper {width: 960 px;
+    margin: 0 auto;}
 
+footer {clear: both;}
